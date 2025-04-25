@@ -7,7 +7,7 @@ No Support needed.
 
 <img src="IMG_5349.jpg" width="600px" />
 
-<img src="IMG_5349.jpg" width="600px" />
+<img src="IMG_5348.jpg" width="600px" />
 
 <img src="IMG_5337.JPG" width="600px" />
 
