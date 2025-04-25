@@ -1,5 +1,5 @@
 # Escape-from-Stalingrad-Z-Storage-Solution
-3D Printed Storage Solution for Boardgame Escape from Stalingrad Z
+3D Printed Storage Solution for Boardgame Escape from Stalingrad Z. <br>
 All Standies with their bases fit in the box.
 
 No Support needed.
