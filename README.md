@@ -11,5 +11,5 @@ No Support needed.
 
 <img src="IMG_5337.JPG" width="600px" />
 
-https://github.com/lehrerhans/Escape-from-Stalingrad-Z-Storage-Solution/blob/main/IMG_5348.jpg
+
 
